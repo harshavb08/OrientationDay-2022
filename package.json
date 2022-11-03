@@ -1,0 +1,25 @@
+{
+    "name": "orientation-day",
+    "version": "0.0.0",
+    "scripts": {
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@coreui/react": "^4.4.0",
+        "axios": "^1.1.3",
+        "bootstrap": "^5.2.2",
+        "firebase": "^9.13.0",
+        "fuse.js": "^6.4.6",
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0",
+        "react-dropdown": "^1.11.0",
+        "react-qr-code": "^2.0.3",
+        "react-router-dom": "^6.4.2",
+        "react-search-autocomplete": "^5.5.1"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^1.0.0",
+        "vite": "^2.6.4"
+    }
+}
